@@ -1,3 +1,4 @@
+.gitignore
 Pipfile
 Pipfile.lock
 wiki.html
